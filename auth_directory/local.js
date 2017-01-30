@@ -30,3 +30,5 @@ passport.use(new LocalStrategy(options, (username, passwrod, done) => {
 }));
 
 module.exports = passport;
+
+// attempt to commit add passport config
