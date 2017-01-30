@@ -1,10 +1,12 @@
 {
   "development": {
-    "username": "fazbook_auth_development",
+    "username": "kylasmassey",
     "password": null,
-    "database": "database_development",
+    "database": "fazbook_auth_development",
     "host": "127.0.0.1",
     "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable":https://mysterious-bayou-11501.herokuapp.com
   }
 }
-
